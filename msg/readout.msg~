@@ -1,0 +1,11 @@
+float32 ro1
+float32 ro2
+float32 ro3
+float32 R_t
+float32 R_t_bar
+float32 eta_1
+float32 eta_2
+float32 abs_dW_1
+float32 abs_dW_2
+float32 modulator
+float32 modulator_lp
