@@ -41,6 +41,7 @@ add_service_files(
   FILES
   SaveState.srv
   Reset.srv
+	SingleValFloat.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
